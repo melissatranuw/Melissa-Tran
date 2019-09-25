@@ -2,6 +2,8 @@
 // 7/15/19
 // CSE142
 
+/* The program "Song" produces the song “There Was an Old Woman Who Swallowed a Fly.”
+   The program consist of classes and a main. */
 
    public class Song{
 
