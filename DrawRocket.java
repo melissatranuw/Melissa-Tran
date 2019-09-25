@@ -1,7 +1,11 @@
 // Melissa Tran
 // 7/26/19
-//CSE 142 HW 2
-  
+//CSE 142
+
+/* The program "DrawRocket" is a program that outputs an ASCII drawing of a 
+   rocket that can alter size based on the user desire of height. The program 
+   consists of for loops, classes, and a main.*/
+
    public class DrawRocket {
 
       public static final int HEIGHT = 3;
