@@ -1,6 +1,6 @@
 // Melissa Tran
 // 7/26/19
-//CSE 142 HW 2
+//CSE 142 
   
    public class DrawRocket {
 
